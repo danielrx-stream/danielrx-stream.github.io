@@ -63,6 +63,19 @@ This is where all the different ideas for stream content will appear. Feel free 
 ## Games
 - Outerwilds
   - 100% runs
+- Astroneer with viewers
+- Factorio
+- Sea Of Theives with viewers
+- Shapez.io
+- Evil Genius
+- War for the Overworld
+- Oxygen not included
+- FTL
+- Dungeons 3
+- Prison Architect
+- Rimworld
+- Kerbal Space Program
+- Niche
 
 ## Misc
  - Jigsaw puzzles
