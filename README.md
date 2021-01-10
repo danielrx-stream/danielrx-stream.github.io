@@ -31,3 +31,39 @@ This is where all the different ideas for stream content will appear. Feel free 
  - More commands
  - Add documentation for all the commands and sections
 
+## Overlays and Visual
+ - Controller overlay to show buttons pressed
+ - Keyboard / mouse overlay to show actions done
+ - BRB screen with a (rough) timer of how long it will be until I return
+ - Interactive alerts / emotes on screen
+ - Stream avatars but with much more interactivity (points for upgrades, leveling up)
+ - On screen games to play with chat
+ - Smart Click maps or similar
+ - Auto generated subtitles
+
+
+
+## Audio
+ - Download and tag songs that are safe to stream
+ - Enable song request for songs in the "Safe to stream" folder
+ - List songs in the "Safe to stream" folder
+
+## Discord bot
+ - Discord -> Twitch bridge (Features TBD)
+ - Auto update BTTV/FFZ emotes
+ - Auto roles for VIPs/Mods
+ - Games to play in discord linked to twitch
+ - Extra channel points based on activity in discord
+
+## Emote extension
+ - BTTV/FFZ style extension but allowing for unlimited emotes for much cheaper (free possibly)
+ - Animated emotes
+ - Chat effects (linked to bot)
+
+## Games
+- Outerwilds
+  - 100% runs
+
+## Misc
+ - Jigsaw puzzles
+ - Dog streams
